@@ -34,12 +34,15 @@ Pour l'installation rien de plus de simple rdv dans le dossier `documentation/bd
 Une fois la base de donnée créer et les données insérer lancer un serveur en local `php -S localhost:8080`. Cette commmande permet de lancer un serveur php sur le port 8080.
 
 #### Etape 3:
-Ensuite dans l'url taper `http://localhost:8080/admin` ceci vous créera automatiquement un compte pour tester les diverses fonctionnalitées. Bien entendu ceci sera supprimer des la mise en production.
+Ensuite dans l'url taper <http://localhost:8080/admin> ceci vous créera automatiquement un compte pour tester les diverses fonctionnalitées. Bien entendu ceci sera supprimer des la mise en production.
 
-Information du compte :
+Information de connexion :
 - Email : test@test.com
 - mot de passe: test
 
 #### Etape 4:
+Une fois l'utilisateur créé rendez vous simplement a cette page <http://localhost:8080/>
+
+#### Etape 5:
 Une fois votre compte créer par défault connecté vous avec les informations précédentes et parcouré le site. ENJOY !
 
