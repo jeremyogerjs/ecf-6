@@ -9,7 +9,7 @@ Ce projet a été réalisé en php/POO/PDO.
 
 ## Specification technique
 
-Pour ce projet j'ai choisi d'utiliser bootstrap pour le css car c'est facile et rapide pour la mise en forme et crátio nde composant front-end.
+Pour ce projet j'ai choisi d'utiliser bootstrap pour le css car c'est facile et rapide pour la mise en forme et creation de composant front-end.Par ailleures je n'ai pas eu le temps d'implémenter la pagination, a la place j'ai intégrer un systeme de recherche.
 
 #### Structure du projet
 Pour la structure du projet je me suis inspiré du framework laravel pour ce faire dans le dossier app vous avez deux sous dossier (models, controlelrs) qui contienne toute la logique, chaque controller et model hérite d'un controller et d'un model générique.
